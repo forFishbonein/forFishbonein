@@ -27,7 +27,7 @@
 
 ##### GitHub status
 
-![](https://github-readme-activity-graph.cyclic.app/graph?username=forFishbonein&theme=github)
+![Fishbone's GitHub stats](https://github-readme-stats.vercel.app/api?username=forFishbonein&show_icons=true&theme=radical)
 
 <!--
 
