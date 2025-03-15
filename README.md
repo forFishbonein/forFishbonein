@@ -12,7 +12,7 @@
 
 <!-- ======================================= -->
 
-- 😄Read more about my [CSDN](https://blog.csdn.net/m0_58768224) or my personal blog [hidocs](http://hidocs.vip/)
+- 😄Read more about my [CSDN](https://blog.csdn.net/m0_58768224) or my personal blog [HiDocs](http://hidocs.vip/)
 <!-- - 👯Follow me on [阿里云](https://developer.aliyun.com/profile/expert/oirrcfhlzqzko), [掘金](https://juejin.cn/user/2467756640574845) or [腾讯云](https://cloud.tencent.com/developer/user/8345747) -->
 
 <!-- https://readme-typing-svg.demolab.com/demo/ -->
